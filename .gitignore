@@ -1,0 +1,16 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Test artifacts
+.pytest_cache/
